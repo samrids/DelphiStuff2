@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/24 14:02:35.000.531,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/29 21:00:57.000.540,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/08 10:37:35.000.080,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/08 10:38:04.000.085,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/12 09:22:41.232,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/12 09:48:36.893,D:\Awarasoft\Test_GetPublicIPWithDelphi\Unit1.dfm=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/12 09:48:36.893,D:\Awarasoft\Test_GetPublicIPWithDelphi\Unit1.pas=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/12 09:48:42.867,D:\Awarasoft\Test_GetPublicIPWithDelphi\Project1.dproj=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
